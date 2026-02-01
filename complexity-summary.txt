@@ -1,0 +1,16 @@
+Project Structure & Complexity Report
+=====================================
+File Path                                                    | Complexity   | Lines of Code
+-----------------------------------------------------------------------------------------------
+sfdx-source\apex-common\main\classes\fflib_Application.cls   | 113          | 447
+sfdx-source\apex-common\main\classes\fflib_Objects.cls       | 16           | 113
+sfdx-source\apex-common\main\classes\fflib_QueryFactory.cls  | 523          | 853
+sfdx-source\apex-common\main\classes\fflib_SObjectDescribe.cls | 562          | 363
+sfdx-source\apex-common\main\classes\fflib_SObjectDomain.cls | 553          | 1125
+sfdx-source\apex-common\main\classes\fflib_SObjectSelector.cls | 158          | 559
+sfdx-source\apex-common\main\classes\fflib_SObjectUnitOfWork.cls | 798          | 952
+sfdx-source\apex-common\main\classes\fflib_SObjects.cls      | 342          | 464
+sfdx-source\apex-common\main\classes\fflib_SecurityUtils.cls | 153          | 348
+sfdx-source\apex-common\main\classes\fflib_StringBuilder.cls | 9            | 157
+-----------------------------------------------------------------------------------------------
+GRAND TOTAL                                                  | 3227         | 5381
